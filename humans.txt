@@ -3,9 +3,7 @@
 
 # TEAM
 
-Gideon Isele
-gideonisele@gmail.com	
-PostgreSQL Analyst
+<name>-- Gideon Isele --<twitter>
 
 # THANKS
 
