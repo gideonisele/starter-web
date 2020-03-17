@@ -9,6 +9,9 @@ Alot of lectures are already submitted
 This is the famous and one of the best Training Course of
 Devops
 
+## Contribution
+Fork the Repor raise pull request for review
+
 ## Git Comparison
 Adding Git Comparisons lectures
 
