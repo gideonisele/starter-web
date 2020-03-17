@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Gideon Isele <twitter>
 
 # THANKS
 
