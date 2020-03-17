@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Gideon Isele <twitter>
+Gideon Isele
+gideonisele@gmail.com	
+PostgreSQL Analyst
 
 # THANKS
 
