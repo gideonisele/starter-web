@@ -3,21 +3,20 @@
 
 # TEAM
 
-<<<<<<< HEAD
-<name>-- Gideon Isele --<twitter>
-=======
     Gideon Isele
     gideonisele@gmail.com
-    PostgreSQL Admin/Sys Admin
->>>>>>> develop
+    PostgreSQL Admin/System Admin
+
+
 
 # THANKS
 
-    <name>
+Gideon Isele
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3 Angular
     jQuery, Modernizr
     Machine Learning, AWS, Google Cloud
+
 
