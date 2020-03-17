@@ -3,7 +3,13 @@
 
 # TEAM
 
+<<<<<<< HEAD
 <name>-- Gideon Isele --<twitter>
+=======
+    Gideon Isele
+    gideonisele@gmail.com
+    PostgreSQL Admin/Sys Admin
+>>>>>>> develop
 
 # THANKS
 
