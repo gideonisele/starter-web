@@ -5,7 +5,7 @@
 
     Gideon Isele
     gideonisele@gmail.com
-    PostgreSQL Admin/Sys Admin
+    PostgreSQL Admin
 
 # THANKS
 
@@ -15,3 +15,4 @@
 
     HTML5, CSS3 Angular
     jQuery, Modernizr, AJAK
+    Docker, Java Programming
