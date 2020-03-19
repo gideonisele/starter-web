@@ -3,7 +3,8 @@ This is a Git Project, Which we are using as sample project.
 
 
 ## Introduction
-Alot of lectures are already submitted
+Alot of lectures are already submitted.
+And a lot of lectures are still coming On.
 
 ## GIT & GITHUB Training
 This is the famous and one of the best Training Course of
