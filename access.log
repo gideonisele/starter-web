@@ -1,3 +1,5 @@
+# Access to Authorized Users only
+
 /status 200
 /httpaccess 200
 /mktsp 300
