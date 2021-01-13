@@ -3,7 +3,7 @@
 
 Hi, I am modifying the file before rebase
 
-Doing some chnges in local.
+Doing some chnges in local repo
 
 # TEAM
 
