@@ -13,7 +13,7 @@ Adding Git Rebase Lectures in GIT Advance part.We have done
 so much of work together.
 
 ## Contribution
-Fork the Repor raise pull request for review
+Fork the Repo raise pull request for review
 
 ## Git Comparison
 Adding Git Comparisons lectures
